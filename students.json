@@ -18,7 +18,7 @@
       "id": "1", 
       "lastName": "Williams", 
       "pic": "https://raw.githubusercontent.com/glv1at118/student-system-api/master/1.png", 
-      "skill": "Oracle"
+      "skill": "Javascript"
     }, 
     {
       "city": "Montreal", 
@@ -38,7 +38,7 @@
       "id": "2", 
       "lastName": "Harris", 
       "pic": "https://raw.githubusercontent.com/glv1at118/student-system-api/master/2.png", 
-      "skill": "Sports"
+      "skill": "C++"
     }, 
     {
       "city": "Salt Lake", 
@@ -58,7 +58,7 @@
       "id": "3", 
       "lastName": "Thomas", 
       "pic": "https://raw.githubusercontent.com/glv1at118/student-system-api/master/3.png", 
-      "skill": "Employee Handbooks"
+      "skill": "Change Management"
     }, 
     {
       "city": "North York", 
@@ -78,7 +78,7 @@
       "id": "4", 
       "lastName": "Robinson", 
       "pic": "https://raw.githubusercontent.com/glv1at118/student-system-api/master/4.png", 
-      "skill": "Nutrition Education"
+      "skill": "Food science and research"
     }, 
     {
       "city": "Washington", 
@@ -98,7 +98,7 @@
       "id": "5", 
       "lastName": "Walker", 
       "pic": "https://raw.githubusercontent.com/glv1at118/student-system-api/master/5.png", 
-      "skill": "ISO 14971"
+      "skill": "Java"
     }, 
     {
       "city": "Vancouver", 
@@ -118,7 +118,7 @@
       "id": "6", 
       "lastName": "Scott", 
       "pic": "https://raw.githubusercontent.com/glv1at118/student-system-api/master/6.png", 
-      "skill": "Cinema 4D"
+      "skill": "Python"
     }, 
     {
       "city": "Moonbase", 
@@ -138,7 +138,7 @@
       "id": "7", 
       "lastName": "Nelson", 
       "pic": "https://raw.githubusercontent.com/glv1at118/student-system-api/master/7.png", 
-      "skill": "Ulead VideoStudio"
+      "skill": "MySQL"
     }, 
     {
       "city": "Tokyo", 
@@ -158,7 +158,7 @@
       "id": "8", 
       "lastName": "Mitchell", 
       "pic": "https://raw.githubusercontent.com/glv1at118/student-system-api/master/8.png", 
-      "skill": "Vulcan"
+      "skill": "Numeric Calculation"
     }, 
     {
       "city": "London", 
@@ -178,7 +178,7 @@
       "id": "9", 
       "lastName": "Morgan", 
       "pic": "https://raw.githubusercontent.com/glv1at118/student-system-api/master/9.png", 
-      "skill": "EE4"
+      "skill": "Marketing"
     }, 
     {
       "city": "Windsor", 
@@ -198,7 +198,7 @@
       "id": "10", 
       "lastName": "Cooper", 
       "pic": "https://raw.githubusercontent.com/glv1at118/student-system-api/master/10.png", 
-      "skill": "LPS"
+      "skill": "Online Media"
     }, 
     {
       "city": "Ottawa", 
@@ -218,7 +218,7 @@
       "id": "11", 
       "lastName": "Howard", 
       "pic": "https://raw.githubusercontent.com/glv1at118/student-system-api/master/11.png", 
-      "skill": "Geography"
+      "skill": "Sports and Health"
     }, 
     {
       "city": "Great Bay", 
@@ -238,7 +238,7 @@
       "id": "12", 
       "lastName": "Davis", 
       "pic": "https://raw.githubusercontent.com/glv1at118/student-system-api/master/12.png", 
-      "skill": "Identity Management"
+      "skill": "Web Socket"
     }, 
     {
       "city": "Houston", 
@@ -258,7 +258,7 @@
       "id": "13", 
       "lastName": "Miller", 
       "pic": "https://raw.githubusercontent.com/glv1at118/student-system-api/master/13.png", 
-      "skill": "Outdoor Advertising"
+      "skill": "Political Propaganda"
     }, 
     {
       "city": "San Andreas", 
@@ -278,7 +278,7 @@
       "id": "14", 
       "lastName": "Martin", 
       "pic": "https://raw.githubusercontent.com/glv1at118/student-system-api/master/14.png", 
-      "skill": "Amazon VPC"
+      "skill": "Computer Fixing"
     }, 
     {
       "city": "Jupiter", 
@@ -298,7 +298,7 @@
       "id": "15", 
       "lastName": "Smith", 
       "pic": "https://raw.githubusercontent.com/glv1at118/student-system-api/master/15.png", 
-      "skill": "DMR"
+      "skill": "Sales"
     }, 
     {
       "city": "New York", 
@@ -318,7 +318,7 @@
       "id": "16", 
       "lastName": "Anderson", 
       "pic": "https://raw.githubusercontent.com/glv1at118/student-system-api/master/16.png", 
-      "skill": "PFI"
+      "skill": "Retails and marketing"
     }, 
     {
       "city": "Egypt", 
@@ -338,7 +338,7 @@
       "id": "17", 
       "lastName": "White", 
       "pic": "https://raw.githubusercontent.com/glv1at118/student-system-api/master/17.png", 
-      "skill": "General Surgery"
+      "skill": "Music improvisation"
     }, 
     {
       "city": "Mexico", 
@@ -358,7 +358,7 @@
       "id": "18", 
       "lastName": "Perry", 
       "pic": "https://raw.githubusercontent.com/glv1at118/student-system-api/master/18.png", 
-      "skill": "Sales Tax"
+      "skill": "National geographics"
     }, 
     {
       "city": "Mosco", 
@@ -378,7 +378,7 @@
       "id": "19", 
       "lastName": "Clark", 
       "pic": "https://raw.githubusercontent.com/glv1at118/student-system-api/master/19.png", 
-      "skill": "Urbanism"
+      "skill": "React & Redux"
     }, 
     {
       "city": "Dubai", 
@@ -398,7 +398,7 @@
       "id": "20", 
       "lastName": "Richards", 
       "pic": "https://raw.githubusercontent.com/glv1at118/student-system-api/master/20.png", 
-      "skill": "IFTA"
+      "skill": "Vue.js"
     }, 
     {
       "city": "Virtual City", 
@@ -418,7 +418,7 @@
       "id": "21", 
       "lastName": "Wheeler", 
       "pic": "https://raw.githubusercontent.com/glv1at118/student-system-api/master/21.png", 
-      "skill": "ATM Networks"
+      "skill": "Java, C#"
     }, 
     {
       "city": "Moobai", 
@@ -438,7 +438,7 @@
       "id": "22", 
       "lastName": "Warburton", 
       "pic": "https://raw.githubusercontent.com/glv1at118/student-system-api/master/22.png", 
-      "skill": "Media Relations"
+      "skill": "jQuery, Node.js"
     }, 
     {
       "city": "Kotayo", 
@@ -458,7 +458,7 @@
       "id": "23", 
       "lastName": "Stanley", 
       "pic": "https://raw.githubusercontent.com/glv1at118/student-system-api/master/23.png", 
-      "skill": "PC Games"
+      "skill": "Algorithms"
     }, 
     {
       "city": "Nestion", 
@@ -478,7 +478,7 @@
       "id": "24", 
       "lastName": "Holland", 
       "pic": "https://raw.githubusercontent.com/glv1at118/student-system-api/master/24.png", 
-      "skill": "Kondor+"
+      "skill": "Engineering Techs"
     }, 
     {
       "city": "Boomery", 
@@ -498,7 +498,7 @@
       "id": "25", 
       "lastName": "Terry", 
       "pic": "https://raw.githubusercontent.com/glv1at118/student-system-api/master/25.png", 
-      "skill": "WTL"
+      "skill": "Teamwork, Resource management"
     }
   ]
 }
